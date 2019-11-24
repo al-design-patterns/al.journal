@@ -1,0 +1,9 @@
+.alpackages/
+.vscode/
+Layouts/
+!Report Pack/Layouts/
+*.app
+Translations/
+_output/
+.alcache/
+.altemplates/

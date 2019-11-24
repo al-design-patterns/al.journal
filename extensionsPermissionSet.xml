@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PermissionSets>
+  <PermissionSet RoleID="AL.JOURNAL" RoleName="al.journal">
+    <Permission>
+      <ObjectType>TableData</ObjectType>
+      <ObjectID>50015</ObjectID>
+      <ReadPermission>yes</ReadPermission>
+      <InsertPermission>yes</InsertPermission>
+      <ModifyPermission>yes</ModifyPermission>
+      <DeletePermission>yes</DeletePermission>
+      <ExecutePermission>yes</ExecutePermission>
+      <SecurityFilter />
+    </Permission>
+    <Permission>
+      <ObjectType>Table</ObjectType>
+      <ObjectID>50015</ObjectID>
+      <ReadPermission>yes</ReadPermission>
+      <InsertPermission>yes</InsertPermission>
+      <ModifyPermission>yes</ModifyPermission>
+      <DeletePermission>yes</DeletePermission>
+      <ExecutePermission>yes</ExecutePermission>
+      <SecurityFilter />
+    </Permission>
+    <Permission>
+      <ObjectType>TableData</ObjectType>
+      <ObjectID>50014</ObjectID>
+      <ReadPermission>yes</ReadPermission>
+      <InsertPermission>yes</InsertPermission>
+      <ModifyPermission>yes</ModifyPermission>
+      <DeletePermission>yes</DeletePermission>
+      <ExecutePermission>yes</ExecutePermission>
+      <SecurityFilter />
+    </Permission>
+    <Permission>
+      <ObjectType>Table</ObjectType>
+      <ObjectID>50014</ObjectID>
+      <ReadPermission>yes</ReadPermission>
+      <InsertPermission>yes</InsertPermission>
+      <ModifyPermission>yes</ModifyPermission>
+      <DeletePermission>yes</DeletePermission>
+      <ExecutePermission>yes</ExecutePermission>
+      <SecurityFilter />
+    </Permission>
+    <Permission>
+      <ObjectType>TableData</ObjectType>
+      <ObjectID>50013</ObjectID>
+      <ReadPermission>yes</ReadPermission>
+      <InsertPermission>yes</InsertPermission>
+      <ModifyPermission>yes</ModifyPermission>
+      <DeletePermission>yes</DeletePermission>
+      <ExecutePermission>yes</ExecutePermission>
+      <SecurityFilter />
+    </Permission>
+    <Permission>
+      <ObjectType>Table</ObjectType>
+      <ObjectID>50013</ObjectID>
+      <ReadPermission>yes</ReadPermission>
+      <InsertPermission>yes</InsertPermission>
+      <ModifyPermission>yes</ModifyPermission>
+      <DeletePermission>yes</DeletePermission>
+      <ExecutePermission>yes</ExecutePermission>
+      <SecurityFilter />
+    </Permission>
+    <Permission>
+      <ObjectType>TableData</ObjectType>
+      <ObjectID>50012</ObjectID>
+      <ReadPermission>yes</ReadPermission>
+      <InsertPermission>yes</InsertPermission>
+      <ModifyPermission>yes</ModifyPermission>
+      <DeletePermission>yes</DeletePermission>
+      <ExecutePermission>yes</ExecutePermission>
+      <SecurityFilter />
+    </Permission>
+    <Permission>
+      <ObjectType>Table</ObjectType>
+      <ObjectID>50012</ObjectID>
+      <ReadPermission>yes</ReadPermission>
+      <InsertPermission>yes</InsertPermission>
+      <ModifyPermission>yes</ModifyPermission>
+      <DeletePermission>yes</DeletePermission>
+      <ExecutePermission>yes</ExecutePermission>
+      <SecurityFilter />
+    </Permission>
+  </PermissionSet>
+</PermissionSets>

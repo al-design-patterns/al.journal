@@ -1,0 +1,27 @@
+{
+    "name": "al.design.patterns",
+    "description": "AL Coding Rules",
+    "generalAction": "Hidden",
+    "rules": [
+        {
+            "id": "AA0008",
+            "action": "Hidden",
+            "justification": "AL is not C# or Java, we do not use paranteses when not required..."
+        },
+        {
+            "id": "AW0006",
+            "action": "Hidden",
+            "justification": "A Card page should not show up in search..."
+        },
+        {
+            "id": "PTE0002",
+            "action": "Hidden",
+            "justification": "I want to add fields in the correct range..."
+        },
+        {
+            "id": "AA0204",
+            "action": "Hidden",
+            "justification": "Not sure yet what to do..."
+        }
+    ]
+}
